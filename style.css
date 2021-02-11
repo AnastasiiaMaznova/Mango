@@ -68,3 +68,7 @@ h2 {
       margin: 0px;
       display: inline-block;
     }
+    .woman-col-table {
+      display: inline-block;
+      width: 300px;
+    }
