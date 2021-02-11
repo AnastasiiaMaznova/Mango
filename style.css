@@ -1,4 +1,9 @@
 
+@font-face {font-family: 'Austin'; src: url('https://st.mngbcn.com/web/rcsemail/fonts/austin/otf/Austin-Light-Cy.otf') format('opentype');}
+@font-face {font-family: 'Austin-Italic'; src: url('https://st.mngbcn.com/web/rcsemail/fonts/austin/otf/Austin-LightItalic-Cy.otf') format('opentype');}
+
+
+
 * {
   text-align: center;
 }
@@ -40,8 +45,8 @@ h2 {
   padding: 0px 8px 15px 18px;
 }
 
-.link {
-  padding: 40px;
+    .link {
+    padding: 40px;
 
     }
 
