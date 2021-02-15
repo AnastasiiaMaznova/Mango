@@ -147,14 +147,21 @@
 
 				<div class="contact-form">
 					<form>
-						<h3>Подписаться на нашу рассылку</h2>
-						<label for="name">Enter Name:</label>
-						<input type="text" id="name" name="name" placeholder="Name"><br>
-						<label for="email">Enter Email:</label>
-						<input type="email" id="email" name="email" placeholder="Email"><br>
-						<label for="phone">Enter Phone:</label>
-						<input type="tel" id="phone" name="phone" placeholder="Phone"><br>
-						<input type="submit" value="Submit">
+						<h3>Subscribe</h2>
+						<div class="form-input">
+							<input type="text" class="form-field" id="name" name="name" placeholder="Name">
+						</div>
+						<div class="form-input">
+						  <input type="email" class="form-field" id="email" name="email" placeholder="Email">
+					  </div>
+						<div class="form-input">
+						  <input type="tel" class="form-field" id="phone" name="phone" placeholder="Phone">
+					  </div>
+						<div class="form-input">
+							<input type="submit" value="Subscribe">
+							<input type="checkbox" id="promo" name="promo" value="promo">
+							<label for="promo">Promocode</label>
+					  </div>
 					</form>
 				</div>
 

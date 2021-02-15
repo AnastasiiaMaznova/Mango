@@ -86,4 +86,32 @@
       width: 300px;
     }
 
-    
+    .form-input {
+      height: 40px;
+      font-family: 'Austin';
+    }
+    input[type=submit] {
+      background-color: #f2f2f2;
+      padding: 10px;
+      border: 1px solid #a29d9d;
+      border-radius: 5px;
+    }
+
+    .form-field {
+      height: 20px;
+      width: 300px;
+      font-size: 18px;
+      font-family: 'Austin';
+    }
+
+    .form-field:hover, input[type=submit]:hover {
+      border: 1px solid #947c38b0;
+    }
+
+    .contact-form {
+      width: 350px;
+      margin: 0 auto;
+      border: 1px solid #a29d9d;
+      height: 220px;
+      font-family: 'Austin';
+    }
