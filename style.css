@@ -49,6 +49,14 @@
       padding: 0px 8px 15px 18px;
     }
 
+    .big-image {
+      width: 300px;
+    }
+
+    .small-image {
+      width: 150px;
+    }
+
     .link {
     padding: 40px;
     color: black;
@@ -77,3 +85,5 @@
       display: inline-block;
       width: 300px;
     }
+
+    
