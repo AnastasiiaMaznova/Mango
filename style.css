@@ -16,6 +16,10 @@
       padding-bottom: 30px;
     }
 
+    hr {
+      width: 45%;
+    }
+
     h1 {
       font-size: 60px;
       font-family: "Austin";
